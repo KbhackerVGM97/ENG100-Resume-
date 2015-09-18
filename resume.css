@@ -1,0 +1,53 @@
+#links{
+border-radius:0px;
+font-size: 1.4em;
+color:black;
+position: absolute;
+height:40px;
+width:100%;
+line-height:40px;
+bottom:0px;
+word-spacing:2em;
+}
+body{
+	background-color: black;
+}
+
+div{
+	background-color:#FF8026;
+	text-align:center;
+	border-radius:5px;
+	
+}
+
+a{
+	
+	color: white;
+	text-decoration:none;
+}
+
+p{
+	font-size: 2em;
+}
+
+#contents{
+	border-radius: 25px;
+	width:700px;
+	margin: auto;
+	font-size: 2em;
+	margin-top: 20%;
+	color:white;
+}
+#top{
+	background-color:black;
+	height: 30px;
+}
+
+#back{
+z-index:1;
+background-color:black;
+position: absolute;
+height:40px;
+width:100%;
+bottom:35px;
+}
